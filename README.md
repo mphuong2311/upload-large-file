@@ -1,4 +1,4 @@
-# mapvox
+# Upload large file with Vue
 
 ## Project setup
 ```
